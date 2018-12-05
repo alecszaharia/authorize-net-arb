@@ -13,8 +13,8 @@
          bootstrap="Tests/bootstrap.php"
 >
     <php>
-        <var name="__PAYUM_AUTHORIZE_NET_ARB_API_LOGIN_ID" value="6Jx2Mj3Q"/>
-        <var name="__PAYUM_AUTHORIZE_NET_ARB_API_TRANSACTION_KEY" value="4gEy64m934wHK8Bh"/>
+        <var name="__PAYUM_AUTHORIZE_NET_ARB_API_LOGIN_ID" value="F6Jx2Mj3Q"/>
+        <var name="__PAYUM_AUTHORIZE_NET_ARB_API_TRANSACTION_KEY" value="A4gEy64m934wHK8Bh"/>
     </php>
 
     <testsuites>

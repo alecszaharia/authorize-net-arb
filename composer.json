@@ -13,7 +13,7 @@
     "autoload": {
         "psr-0": { "Payum\\AuthorizeNet\\Arb": "" }
     },
-    "target-dir": "Payum/AuthorizeNet/Aim",
+    "target-dir": "Payum/AuthorizeNet/Arb",
     "authors": [
         {
             "name": "Alexandru Zaharia",
